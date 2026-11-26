@@ -7,6 +7,7 @@
 | 实践课1 | Pi Agent 安装与基础使用 | 见个人仓库 `pi-practice2` 之前的提交记录 |
 | 实践课2 | 组织建仓与 Pi-Agent 源码分析 | https://github.com/Aglioble/pi-practice2 |
 | 实践课3 | 源码获取、依赖安装与本地编译 | [practice3/README.md](practice3/README.md) |
+| 实践课4 | 模型调用与运行流程 | [practice4/practice-04.md](practice4/practice-04.md) |
 
 ## 目录约定
 
@@ -16,7 +17,10 @@ pi-homework/
 ├── practice3/           实践课3
 │   ├── README.md        实验报告
 │   └── images/          报告截图（S1、S2、S3、S4、S5、S6 等）
+├── practice4/           实践课4
+│   ├── practice-04.md   实验报告（文件名按老师要求）
+│   └── images/          报告截图（S1～S6）
 └── practiceN/           后续实践课按同样结构新增
 ```
 
-新增一次实践课时的做法：在根目录建 `practiceN/`，把报告写进 `practiceN/README.md`，截图放 `practiceN/images/`，再在本文的表格里补一行。
+新增一次实践课时的做法：在根目录建 `practiceN/`，把报告写进 `practiceN/practice-0N.md`（老师指定文件名时按指定名字），截图放 `practiceN/images/`，再在本文的表格里补一行。
