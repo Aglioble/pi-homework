@@ -8,6 +8,7 @@
 | 实践课2 | 组织建仓与 Pi-Agent 源码分析 | https://github.com/Aglioble/pi-practice2 |
 | 实践课3 | 源码获取、依赖安装与本地编译 | [practice3/README.md](practice3/README.md) |
 | 实践课4 | 模型调用与运行流程 | [practice4/practice-04.md](practice4/practice-04.md) |
+| 实践课5 | 源码泛读与功能定位 | [practice5/practice-05.md](practice5/practice-05.md) |
 
 ## 目录约定
 
@@ -20,6 +21,9 @@ pi-homework/
 ├── practice4/           实践课4
 │   ├── practice-04.md   实验报告（文件名按老师要求）
 │   └── images/          报告截图（S1～S6）
+├── practice5/           实践课5
+│   ├── practice-05.md   实验报告
+│   └── images/          报告截图（S1、S2-a～c、S3）
 └── practiceN/           后续实践课按同样结构新增
 ```
 
